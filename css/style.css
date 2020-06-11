@@ -32,6 +32,13 @@ flex-direction: column;
 .content{
   flex: 1 1 auto;
 }
+/* header style start */
+.header{
+  background: #fff;
+}
+/* header style start */
+
+/* footer style start */
 .footer{
   background: #0E357E; 
   padding: 80px 88px;
@@ -89,3 +96,4 @@ font-size: 12px;
 line-height: 150%;
 color: #FFFFFF;
 }
+/* footer style end */
